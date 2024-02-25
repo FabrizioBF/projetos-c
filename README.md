@@ -15,3 +15,7 @@ Exercício 5.Escreva um programa para gerar o seguinte texto exatamente como apa
 “A árvore da liberdade há de ser regada, de vez em quando, com sangue de patriotas e de tiranos.”
 Thomas Jefferson.
 Procure resolver essa tarefa
+
+Exercício 6.Identifique qual é o tipo de erro e mensagem exibida neste exercício. Para isso, utilize o código
+disponível no repositório do GitHub. Repita essa identificação também para os exercícios 7, 8, 9 e 10 com seus
+respectivos códigos disponíveis.
