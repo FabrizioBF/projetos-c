@@ -19,3 +19,14 @@ Procure resolver essa tarefa
 Exercício 6.Identifique qual é o tipo de erro e mensagem exibida neste exercício. Para isso, utilize o código
 disponível no repositório do GitHub. Repita essa identificação também para os exercícios 7, 8, 9 e 10 com seus
 respectivos códigos disponíveis.
+
+Exercício 11.Escreva um programa que solicita ao usuário  o comprimento de um lado e imprima a área do quadrado:
+
+Exercício 12.Escreva um programa para imprimir a letra da sua música favorita.
+Adicione a sua resposta.
+
+Exercício 13.Escreva um programa para inserir um número inteiro e depois imprima o valor inteiro.
+
+Exercício 14.Escreva um programa que insira dois valores inteiros e exiba o somatório na tela.
+
+Exercício 15.Escreva um programa para inserir dois inteiros e mostrar o resultado da divisão.
