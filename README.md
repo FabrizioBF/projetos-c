@@ -34,6 +34,8 @@ Exercício 14.Escreva um programa que insira dois valores inteiros e exiba o som
 
 Exercício 15.Escreva um programa para inserir dois inteiros e mostrar o resultado da divisão.
 
+Atividade 4 -  Algoritmos, else/if, if/else, else e scanf().
+
 Exercício 16.Escreva um programa para verificar se um determinado número é positivo ou negativo.
 
 Exercício 17.Escreva um programa para verificar se um número é par ou ímpar.
