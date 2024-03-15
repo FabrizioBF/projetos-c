@@ -33,3 +33,17 @@ Exercício 13.Escreva um programa para inserir um número inteiro e depois impri
 Exercício 14.Escreva um programa que insira dois valores inteiros e exiba o somatório na tela.
 
 Exercício 15.Escreva um programa para inserir dois inteiros e mostrar o resultado da divisão.
+
+Exercício 16.Escreva um programa para verificar se um determinado número é positivo ou negativo.
+
+Exercício 17.Escreva um programa para verificar se um número é par ou ímpar.
+
+Exercício 18.Escreva um programa para verificar se um número é positivo, negativo ou é igual zero.
+
+Exercício 19.Escreva um programa para verificar se o usuário é masculino ou feminino.
+
+Exercício 20.Escreva um programa para comparar dois números usando if/else.
+
+Exercício 21.Escreva um programa para comparar dois números usando else/if.
+
+Exercício 22.Escreva um programa para verificar o digito (1 - 5) inserido pelo usuário.
