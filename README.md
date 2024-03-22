@@ -49,3 +49,33 @@ Exercício 20.Escreva um programa para comparar dois números usando if/else.
 Exercício 21.Escreva um programa para comparar dois números usando else/if.
 
 Exercício 22.Escreva um programa para verificar o digito (1 - 5) inserido pelo usuário.
+
+Exercício 23.Escreva um programa para exibir a mensagem "escola técnica estadual porto digital" usando a instrução if 
+e sem usar ponto e vírgula.
+
+Exercício 24.Escreva um programa para exibir a mensagem "escola técnica estadual porto digital" usando a instrução switch
+e sem usar ponto e vírgula.
+
+Exercício 25.Escreva um programa para exibir o conteúdo “escola técnica estadual porto digital”, usando o loop while e sem 
+usar ponto e vírgula.
+
+Exercício 26.Escreva um programa para exibir os conteúdos de duas variáveis string. Utilize o '%s'  como especificador de 
+formato para a string na linguagem c.
+
+Exercício 27.Escreva um programa para verificar se um número inteiro digitado corresponde a uma situação específica da 
+instrução switch-case.
+
+Exercício 28.Escreva um programa que utiliza a instrução switch para receber um valor inteiro e verifique se ele é igual a 
+10, 50, 100 ou não é igual a esses números.
+
+Exercício 29.Escreva um programa que pergunta ao usuário sobre uma senha e continua perguntando até que a senha correta 
+seja inserida.
+
+Exercício 30.Escreva um programa que imprime números de 1 a 5. Use um loop do-while.
+
+Exercício 31.Escreva um programa para imprimir uma tabela para o número fornecido usando o loop.
+
+Exercício 32.Escreva um programa para exibir dois valores, um do tipo float e o outro do tipo double.
+
+Exercício 33.Escreva um programa que utiliza o tipo enum para criar uma lista de dias da semana, exibindo o dia baseado na 
+lista enum.
