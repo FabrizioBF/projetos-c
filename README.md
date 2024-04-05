@@ -79,3 +79,26 @@ Exercício 32.Escreva um programa para exibir dois valores, um do tipo float e o
 
 Exercício 33.Escreva um programa que utiliza o tipo enum para criar uma lista de dias da semana, exibindo o dia baseado na 
 lista enum.
+
+Exercício 34.Use variáveis para armazenar diferentes dados de um estudante universitário.
+
+Exercício 35.Calcule a área de um retângulo (multiplicando o comprimento e a largura).
+
+Exercício 36.Use diferentes tipos de dados para calcular e gerar o custo total de vários itens.
+
+Exercício 37.Calcule a porcentagem da pontuação de um usuário em relação à pontuação máxima de um jogo.
+
+Exercício 38.Descubra se uma pessoa tem idade suficiente para votar.
+
+Exercício 39."Velho suficiente para votar!" se idade for maior ou igual a 18. Caso contrário, imprima "Não tem idade
+suficiente para votar."
+
+Exercício 40.Use instruções if..else para gerar algum texto dependendo da hora.
+
+Exercício 41.Verifique se o usuário digita o código correto.
+
+Exercício 42.Descubra se um número é positivo ou negativo.
+
+Exercício 43.Descubra se uma pessoa tem idade suficiente para votar:
+
+Exercício 44.Use o número do dia da semana para calcular e gerar o nome do dia da semana.
