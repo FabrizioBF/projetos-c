@@ -1,4 +1,4 @@
-//36.Use diferentes tipos de dados para calcular e gerar o custo total de vários itens.
+//36.Use diferentes tipos de dados para calcular e gerar o custo total de vários itens.1
 #include <stdio.h>
 int main(){
 
